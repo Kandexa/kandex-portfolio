@@ -1,2 +1,2 @@
 # kandex-portfolio
-Kandex web sitesi Reacth ile
+Kandex web sitesi 
